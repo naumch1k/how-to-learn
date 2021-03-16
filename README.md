@@ -17,4 +17,5 @@
 * CSS3
 
 ## To Do
+* Translate to English
 * Cross-browser Compatibility
